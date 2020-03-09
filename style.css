@@ -99,7 +99,7 @@ body:before {
             rgba(0, 0, 0, .8) 0%,
             rgba(0, 0, 0, .6) 30%,
             rgba(0, 0, 0, 0) 50%),
-        url('assets/Tatra.jpg');
+        url('assets/tatra.jpg');
     background-position: 0% 0%,
         center;
     background-repeat: repeat, repeat;
